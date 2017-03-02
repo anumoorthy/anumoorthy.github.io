@@ -1,21 +1,21 @@
 # Site wide configuration
 
-title:            Site Title
+title:            Anu Moorthy
 locale:           en_US
 logo:             # filename of a logo image that has been placed into your images directory
 # If using a Github User page (i.e. username.github.io) to host your site, delete the default url that is below.
 # url:
 # Enter the following platform usernames if you would like for them to appear on your site.
 owner:
-  name: Your Name
+  name: Anu Moorthy
   avatar: bio-photo.jpg
-  bio: "A brief description of yourself."
+  bio: Electronic Resources Librarian
   email: #emailaddress
-  twitter: #username
+  twitter: anumoorthy
   facebook: #username
-  instagram: #username
+  instagram: anumoorthy
   linkedin: #username
-  github: #username
+  github: anumoorthy
   researchgate: #username
   mendeley: #username
   google:
